@@ -1,3 +1,4 @@
 void main() {
-  print('Olá Mundo!');
+  var hello = 'Olá Mundo!';
+  print(hello);
 }

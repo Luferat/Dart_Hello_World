@@ -7,15 +7,17 @@ class MinhaClasse {
 
   // Método
   void saudacao() {
-    // concatenando
-    // print('Olá, meu nome é ' + nome + ' e meu ID é ' + id);
+    // Concatenando → '+'           Converte 'int' para 'String' ↓
+    print('Olá, meu nome é ' + nome + ' e meu ID é ' + id.toString());
 
-    // Interpolando
-    print("Olá, meu nome é $nome e meu ID é $id");
+    // Interpolando → $ ou ${}
+    print("Olá, meu nome é $nome e meu ID é ${id}");
+
+    // Dê preferência a ${variável}
   }
 }
 
 void main() {
-  var obj = MinhaClasse(1, 'Dart');
-  obj.saudacao();
+  var obj = MinhaClasse(1, 'Dart'); // Cria instância de MinhaClasse()
+  obj.saudacao(); // Chama método da instância
 }
