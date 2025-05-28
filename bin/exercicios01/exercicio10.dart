@@ -1,7 +1,7 @@
 /*
-Exercício 10) Média de uma Lista:
-Crie uma lista de números decimais.
-Escreva um programa que calcule e imprima a média dos números na lista.
+Média de uma Lista:
+ - Crie uma lista de números decimais.
+ - Escreva um programa que calcule e imprima a média dos números na lista.
 */
 
 void main() {

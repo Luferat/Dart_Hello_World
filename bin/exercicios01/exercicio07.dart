@@ -1,8 +1,8 @@
 /*
-Exercício 07)  Calculadora Simples:
-Crie um programa que realize as quatro operações aritméticas básicas (+, -, *, /) entre dois números.
-Peça ao usuário para digitar dois números e a operação desejada.
-Use uma estrutura condicional (if-else ou switch) para realizar a operação e imprimir o resultado.
+Calculadora Simples:
+ - Crie um programa que realize as quatro operações aritméticas básicas (+, -, *, /) entre dois números.
+ - Peça ao usuário para digitar dois números e a operação desejada.
+ - Use uma estrutura condicional (if-else ou switch) para realizar a operação e imprimir o resultado.
 */
 
 import 'dart:io';
