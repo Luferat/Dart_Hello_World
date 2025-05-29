@@ -1,3 +1,9 @@
+/**
+ * Gerenciador de Tarefas Simples
+ *
+ * ATENÇÃO! Esta é a versão sem os desafios resolvidos...
+ */
+
 import 'dart:io';
 import 'package:prompts/prompts.dart' as prompts;
 
